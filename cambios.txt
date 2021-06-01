@@ -1,0 +1,5 @@
+En la pagina Index: Agregue la etiqueta <meta> incluyendo las keywords necesarias. Y modifiqué los H en la estructura.
+congelados: Agregue etiqueta <meta> con las keywords. También se agregó un h2 con strong
+catering: se agregaron keywords, se agregó un H2
+pasteleria: Se agrego la etiqueta meta con keywords, se añadió un enlace al boton "home" y se agregó un H3.
+contactos: Se agregó un H2 y un <p>

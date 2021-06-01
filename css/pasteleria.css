@@ -1,0 +1,27 @@
+header{
+    display: inline;
+    margin-left: 12%;
+}
+header img{
+    position: sticky;
+}
+h1{
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 80px;
+    color:rgba(0, 0, 0, 0.781);
+    background-color: burlywood;
+}
+h2{
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 50px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navbar{
+    background-color: rgb(226, 119, 119);
+}
+article{
+    padding-left: 5rem;
+}
