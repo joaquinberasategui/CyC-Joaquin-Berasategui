@@ -7,7 +7,6 @@ body{
 .navbar{
     background-color: rgb(40, 204, 190);
     font-size: 25px;
-    padding-left: 30%;
     font-style: #292929;
     text-decoration: underline;
 }
@@ -82,7 +81,6 @@ h4{
     .navbar{
         background-color: rgb(40, 204, 190);
         font-size: 25px;
-        padding-left: 30%;
         font-style: #292929;
         text-decoration: underline;
     }
