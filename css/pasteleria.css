@@ -31,7 +31,7 @@ h2{
 .navbar{
     background-color: rgb(226, 119, 119);
     font-size: 25px;
-   padding-left: 28%;
+   justify-content: center;
 }
 article{
     justify-content: space-evenly;
