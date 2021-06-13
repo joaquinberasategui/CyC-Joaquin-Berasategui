@@ -170,7 +170,9 @@ h5{
     }
     .navbar{
         background-color: rgb(40, 204, 190);
-        font-size: 25px;
+    font-size: 30px;
+    text-decoration: underline;
+    text-transform: uppercase;
     }
     h1{
         background-color: rgb(40, 204, 190);
