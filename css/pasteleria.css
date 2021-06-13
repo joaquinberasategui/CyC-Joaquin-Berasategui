@@ -46,5 +46,7 @@ h3{
     font-size: 35px;
 }
 .card{
+    margin-top: 10px;
+    margin-bottom: 10px;
     box-shadow: 9.91px 9.91px 15px #444646, -9.91px -9.91px 15px rgb(61, 60, 60);
 }
