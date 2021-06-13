@@ -1,18 +1,24 @@
 header{
     display: inline;
-    margin-left: 12%;
 }
-
+body{
+    background-color: rgba(148, 144, 144, 0.507);
+}
 .navbar{
-    background-color: rgb(22, 20, 20);
+    background-color: rgb(40, 204, 190);
     font-size: 25px;
+    padding-left: 30%;
+    font-style: #292929;
+    text-decoration: underline;
 }
 h1{
+    margin-top: 5px;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 50px;
+    font-size: 80px;
     text-align: center;
     text-decoration: underline;
-    background-color: rgba(182, 177, 170, 0.377);
+    text-transform: uppercase;
+    background-color: rgb(40, 204, 190);
 }
 h2{
     font-family: 'Times New Roman', Times, serif;
@@ -20,8 +26,124 @@ h2{
     text-align: center;
     text-decoration: underline;
 }
+h3{
+    background-color: rgb(37, 167, 156);
+    text-align: center;
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline;
+    text-transform: bold;
+    text-transform: uppercase;
+}
+.productos{
+    padding-top: 30%;
+    color: #292929;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding-bottom: 20px;
+}
+.form{
+    color: #292929;
+    font-size: 25px;
+    line-height: 27px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding-bottom: 20px;
+}
+.form-box{
+    padding: 1 1 1 1;
+}
+.col-menu{
+    background-color: rgb(40, 204, 190);
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
 p{
     font-family: 'Times New Roman', Times, serif;
     font-size: 25px;
     text-align: justify;
+}
+h4{
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-size: 25px;
+}
+@media screen and (max-width: 1440px){
+    header{
+        display: inline;
+    }
+    body{
+        background-color: rgba(148, 144, 144, 0.507);
+    }
+    .navbar{
+        background-color: rgb(40, 204, 190);
+        font-size: 25px;
+        padding-left: 30%;
+        font-style: #292929;
+        text-decoration: underline;
+    }
+    h1{
+        margin-top: 5px;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 80px;
+        text-align: center;
+        text-decoration: underline;
+        background-color: rgb(40, 204, 190);
+    }
+    h2{
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 35px;
+        text-align: center;
+        text-decoration: underline;
+    }
+    h3{
+        background-color: rgb(37, 167, 156);
+        text-align: center;
+        font-size: 35px;
+        font-family: 'Times New Roman', Times, serif;
+        text-decoration: underline;
+        text-transform: bold;
+        text-transform: uppercase;
+    }
+    .productos{
+        padding-top: 25%;
+        color: #292929;
+        font-size: 25px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        text-align: center;
+        padding-bottom: 20px;
+    }
+    .form{
+        color: #292929;
+        font-size: 25px;
+        line-height: 27px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        text-align: center;
+        padding-bottom: 20px;
+    }
+    .form-box{
+        padding: 1 1 1 1;
+    }
+    .col-menu{
+        background-color: rgb(40, 204, 190);
+        margin-bottom: 10px;
+        margin-top: 20px;
+    }
+    p{
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 25px;
+        text-align: justify;
+    }
+    h4{
+        text-align: center;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        text-decoration: underline;
+        text-transform: uppercase;
+        font-size: 25px;
+    }
 }

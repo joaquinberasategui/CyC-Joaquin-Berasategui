@@ -1,6 +1,8 @@
 .conteiner {
-  display: inline;
-  margin-left: 12%; }
+  display: inline; }
+
+header {
+  background-color: white; }
 
 .titulo {
   text-align: center;
@@ -27,7 +29,7 @@
   background-color: #f0e2cf; }
 
 .contenedor__texto--somos {
-  font-family: 'Times New Roman', Times, serif;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   font-size: large;
   text-align: justify; }
 
@@ -37,6 +39,13 @@
   height: 200px; }
 
 .carousel-item {
-  padding-left: 12%; }
+  padding-left: 11%; }
 
-/* Variables */
+p {
+  padding-left: 5%;
+  padding-right: 5%;
+  border-left: 5%;
+  border-right: 5%; }
+
+body {
+  background-color: rgba(100, 97, 97, 0.158); }
