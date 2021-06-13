@@ -15,10 +15,10 @@ header {
   display: inline; }
 
 .navbar {
-  font-size: 25px;
-  text-decoration: underline;
   background-color: #28ccbe;
-  padding-left: 27%; }
+  font-size: 30px;
+  text-decoration: underline;
+  text-transform: uppercase; }
 
 .contenedor__quienes {
   text-transform: uppercase;

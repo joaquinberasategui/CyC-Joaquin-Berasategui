@@ -30,8 +30,9 @@ h2{
 
 .navbar{
     background-color: rgb(226, 119, 119);
-    font-size: 25px;
-   padding-left: 28%;
+    font-size: 30px;
+    text-decoration: underline;
+    text-transform: uppercase;
 }
 article{
     justify-content: space-evenly;
@@ -46,5 +47,7 @@ h3{
     font-size: 35px;
 }
 .card{
+    margin-top: 10px;
+    margin-bottom: 10px;
     box-shadow: 9.91px 9.91px 15px #444646, -9.91px -9.91px 15px rgb(61, 60, 60);
 }
